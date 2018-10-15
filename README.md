@@ -13,6 +13,7 @@ Versionsverwaltungssysteme
 
 Wichtige Schritte in Git sind:
 
+1. `git.clone`
 1. `git.add`
 1. `git.commit`
 1. `git.push`
